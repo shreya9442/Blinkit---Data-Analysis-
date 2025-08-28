@@ -3,7 +3,7 @@
 his project analyzes the sales data of Blinkit (Grocery Delivery App) to uncover insights about customer purchasing behavior, category-wise performance, and overall sales trends. The goal is to apply data cleaning, exploratory data analysis (EDA), and visualization techniques to derive meaningful business insights.
 
 ## Objectives
-
+ 
 Perform data cleaning and preprocessing
 
 Conduct exploratory data analysis (EDA)
